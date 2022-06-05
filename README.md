@@ -5,6 +5,10 @@ A python module for sending packets to BYOND servers, for calling
 [BYOND.TopicSender](https://github.com/Cyberboss/BYOND.TopicSender),
 but in python!
 
+## Installation
+
+Open the directory, and `pip install .`!
+
 ## Exports
 ### `send(address, port, query)`
 
